@@ -1,19 +1,19 @@
 
-/* let cantidadDeDolares = 700 //ECMAScript recomienda usar "let" en vez de "var"
+let cantidadDeDolares = 700 //ECMAScript recomienda usar "let" en vez de "var"
 
 let tasaDeCambio = 21
 
 let cantidadPesosAAhorrar = cantidadDeDolares * tasaDeCambio
 
 console.log("La cantidad que Fulanito tiene que ahorrar es:", cantidadPesosAAhorrar, tasaDeCambio)
- */
-/* let horaDeDormir = 1
+
+let horaDeDormir = 1
 
 let horaDeDespertar = 5
 
 let horasDeDescanso = horaDeDespertar - horaDeDormir
 
-console.log("Dormiste por:", horasDeDescanso, "hora(s)") */
+console.log("Dormiste por:", horasDeDescanso, "hora(s)") 
 
 let total = 1000
 
